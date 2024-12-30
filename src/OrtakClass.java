@@ -7,8 +7,10 @@ public class OrtakClass {
         System.out.println("7. satir mesaji");
         System.out.println("Anil v2");
         System.out.println("Ortalık karışacak vaziyet alın");
-
-
         System.out.println("nagihanmag");
+
+        System.out.println("ortak satırımız");
+
+
     }
 }
